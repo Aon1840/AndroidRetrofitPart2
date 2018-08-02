@@ -1,7 +1,9 @@
-package com.example.aon_attapon.androidretrofitpart2;
+package com.example.aon_attapon.androidretrofitpart2.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.aon_attapon.androidretrofitpart2.R;
 
 public class MainActivity extends AppCompatActivity {
 
