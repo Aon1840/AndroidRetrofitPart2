@@ -8,6 +8,6 @@ import retrofit2.http.POST;
 
 public interface IUsersApi {
 
-    @POST("/users")
+    @POST("users")
     Call<User> createUser(@Body User user);
 }
